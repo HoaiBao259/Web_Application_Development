@@ -1,0 +1,11 @@
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/util/PasswordHashGenerator.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/controller/StudentController.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/model/User.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/dao/UserDAO.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/model/Student.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/filter/AdminFilter.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/controller/LogoutController.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/controller/LoginController.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/dao/StudentDAO.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/controller/DashboardController.java
+/Users/lehoaibao/NetBeansProjects/student-management-mvc1/src/main/java/filter/AuthFilter.java
